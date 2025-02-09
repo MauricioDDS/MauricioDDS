@@ -1,17 +1,17 @@
 ## Hello there 🧔👾 I'm Mauricio!
 
+💻 **FullStack Developer**
+🎓 **Systems Engineering Student** at Universidad Francisco de Paula Santander
 
-🎓 Systems Engineering Student at Universidad Francisco de Paula Santander
 
-🎯 **Tech Stack:**  
+🎯 **Tech I Work With:**  
 🟨 JavaScript | ⚛️ React | 🟢 Node.js | 🐍 Python | Django 🟩 | Tailwind CSS 🎨 | Java ☕ | C++ 🔵 |   
 
 🌎 **Languages I Speak:**  
 🗣️ Spanish (Native) && English (Fluent)  
 
-🤝 I’m looking to collaborate on web projects!
-[Reach me here]
-https://www.linkedin.com/in/mauricio-di-donato-sanchez/
+🤝 I’m looking to collaborate on web projects! Contact me! 👇
+📫 https://www.linkedin.com/in/mauricio-di-donato-sanchez/
 
 <!--
 **MauricioDDS/MauricioDDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
