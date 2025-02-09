@@ -5,9 +5,9 @@
 
 
 🎯 **Tech I Work With:**  
-Languages: Java ☕ | C++ 🔵 | Python 🐍  
-Web: Django 🟩 | Tailwind CSS 🎨 | JavaScript 🟨 | REST APIs 🌐  
-Databases: MySQL 🐬
+Java ☕ | C++ 🔵 | Python 🐍  
+Django 🟩 | Tailwind CSS 🎨 | JavaScript 🟨 | REST APIs 🌐  
+MySQL 🐬
 
 🌎 **Languages I Speak:**  
 Spanish (Native) && English (Fluent)  
