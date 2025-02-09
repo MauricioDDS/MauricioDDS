@@ -1,16 +1,16 @@
 ## Hello there 🧔👾 I'm Mauricio!
 
-💻 **FullStack Developer**  
-🎓 **Systems Engineering Student** at Universidad Francisco de Paula Santander
+**FullStack Developer** 💻  
+**Systems Engineering Student** 🎓 at Universidad Francisco de Paula Santander
 
 
 🎯 **Tech I Work With:**  
-🚀 Languages: Java ☕ | C++ 🔵 | Python 🐍  
-🌐 Web: Django 🟩 | Tailwind CSS 🎨 | JavaScript 🟨 | REST APIs 🌐  
-💾 Databases: MySQL 🐬
+Languages: Java ☕ | C++ 🔵 | Python 🐍  
+Web: Django 🟩 | Tailwind CSS 🎨 | JavaScript 🟨 | REST APIs 🌐  
+Databases: MySQL 🐬
 
 🌎 **Languages I Speak:**  
-🗣️ Spanish (Native) && English (Fluent)  
+Spanish (Native) && English (Fluent)  
 
 🤝 I’m looking to collaborate on web projects! Contact me! 👇  
 📫 https://www.linkedin.com/in/mauricio-di-donato-sanchez/
