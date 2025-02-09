@@ -5,11 +5,8 @@
 
 ## 🚀 Tech Stack  
 🟡 **Languages:** JavaScript, Python, C++, Java
-
-⚛️ **Frontend:** React, Tailwind CSS, Next 
-
-🖥️ **Backend:** Django, Node.js  
-
+⚛️ **Frontend:** React, Tailwind CSS, Next
+🖥️ **Backend:** Django, Node.js
 🛢️ **Databases:** MySQL
 
 🌎 **Languages I Speak:**  
