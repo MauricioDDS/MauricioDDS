@@ -10,10 +10,9 @@
 🛢️ **Databases:** MySQL
 
 🌎 **Languages I Speak:**  
-🗣️ Spanish (Native/Bilingual) | English (Fluent/Bilingual)  
+🗣️ Spanish (Native) && English (Fluent)  
 
 🤝 I’m looking to collaborate on web projects!
-
 [Reach me here]
 https://www.linkedin.com/in/mauricio-di-donato-sanchez/
 
