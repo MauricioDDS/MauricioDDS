@@ -5,7 +5,9 @@
 
 
 🎯 **Tech I Work With:**  
-🟨 JavaScript | ⚛️ React | 🟢 Node.js | 🐍 Python | Django 🟩 | Tailwind CSS 🎨 | Java ☕ | C++ 🔵 |   
+🚀 Languages: Java ☕ | C++ 🔵 | Python 🐍  
+🌐 Web: Django 🟩 | Tailwind CSS 🎨 | JavaScript 🟨 | REST APIs 🌐  
+💾 Databases: MySQL 🐬
 
 🌎 **Languages I Speak:**  
 🗣️ Spanish (Native) && English (Fluent)  
