@@ -1,7 +1,7 @@
 ## Hello there 🧔👾 I'm Mauricio!
 
-**FullStack Developer** 💻  
-**Systems Engineering Student** 🎓 at Universidad Francisco de Paula Santander
+_FullStack Developer_ 💻  
+_Systems Engineering Student_ 🎓 **at Universidad Francisco de Paula Santander**
 
 
 🎯 **Tech I Work With:**  
