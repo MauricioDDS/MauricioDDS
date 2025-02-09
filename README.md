@@ -9,7 +9,7 @@
 🖥️ **Backend:** Django, Node.js
 🛢️ **Databases:** MySQL
 
-🌎 **Languages I Speak:**  
+## 🌎 **Languages I Speak:**  
 🗣️ Spanish (Native/Bilingual) | English (Fluent/Bilingual)  
 
 🤝 I’m looking to collaborate on web projects!
