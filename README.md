@@ -3,7 +3,7 @@
 
 🎓 Systems Engineering Student at Universidad Francisco de Paula Santander
 
-🚀 Tech Stack  
+## 🚀 Tech Stack  
 🟡 **Languages:** JavaScript, Python, C++, Java
 ⚛️ **Frontend:** React, Tailwind CSS, Next
 🖥️ **Backend:** Django, Node.js
@@ -14,8 +14,7 @@
 
 🤝 I’m looking to collaborate on web projects!
 
-Reach me here:
-
+[Reach me here]
 https://www.linkedin.com/in/mauricio-di-donato-sanchez/
 
 <!--
