@@ -1,7 +1,6 @@
 ## Hello there 🧔👾 I'm Mauricio!
 
 💻 **FullStack Developer**  
-
 🎓 **Systems Engineering Student** at Universidad Francisco de Paula Santander
 
 
@@ -12,7 +11,6 @@
 🗣️ Spanish (Native) && English (Fluent)  
 
 🤝 I’m looking to collaborate on web projects! Contact me! 👇  
-
 📫 https://www.linkedin.com/in/mauricio-di-donato-sanchez/
 
 <!--
