@@ -3,11 +3,8 @@
 
 🎓 Systems Engineering Student at Universidad Francisco de Paula Santander
 
-## 🚀 Tech Stack  
-🟡 **Languages:** JavaScript, Python, C++, Java
-⚛️ **Frontend:** React, Tailwind CSS, Next
-🖥️ **Backend:** Django, Node.js
-🛢️ **Databases:** MySQL
+🎯 **Tech Stack:**  
+🟨 JavaScript | ⚛️ React | 🟢 Node.js | 🐍 Python | Django 🟩 | Tailwind CSS 🎨 | Java ☕ | C++ 🔵 |   
 
 🌎 **Languages I Speak:**  
 🗣️ Spanish (Native) && English (Fluent)  
