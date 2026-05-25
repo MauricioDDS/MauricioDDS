@@ -5,7 +5,7 @@ _Systems Engineering Student_  **at Universidad Francisco de Paula Santander**
 
 
 **Tech I Work With:**  
-Java | C++ | Python  
+Java | Python  
 Django | Tailwind CSS | JavaScript | REST APIs   
 MySQL
 
