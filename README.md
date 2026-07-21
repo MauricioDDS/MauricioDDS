@@ -7,7 +7,6 @@ _Systems Engineering Student_  **at Universidad Francisco de Paula Santander**
 **Tech I Work With:**  
 Java | Python  
 Django | Tailwind CSS | JavaScript | REST APIs   
-MySQL
 
 **Languages I Speak:**  
 Spanish (Native) && English (Fluent)  
