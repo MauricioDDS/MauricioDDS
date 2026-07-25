@@ -1,7 +1,7 @@
-## Hello there, I'm Mauricio!
+## Hello there!
 
-_FullStack Developer_   
-_Systems Engineering Student_  **at Universidad Francisco de Paula Santander**
+I'm Mauricio a _FullStack Developer_ 
+& _Systems Engineering Student_  **at Universidad Francisco de Paula Santander**
 
 
 **Tech I Work With:**  
