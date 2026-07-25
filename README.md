@@ -5,8 +5,7 @@ I'm Mauricio, a _FullStack Developer_
 
 
 **Tech I Work With:**  
-Java | Python  
-Django | Tailwind CSS | JavaScript | REST APIs   
+Java | Python | Django | React | Tailwind CSS | JavaScript  
 
 **Languages I Speak:**  
 Spanish (Native) && English (Fluent)  
