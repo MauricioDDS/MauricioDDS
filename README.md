@@ -1,6 +1,6 @@
 ## Hello there!
 
-I'm Mauricio a _FullStack Developer_ 
+I'm Mauricio, a _FullStack Developer_ 
 & _Systems Engineering Student_  **at Universidad Francisco de Paula Santander**
 
 
